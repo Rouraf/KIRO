@@ -1,1 +1,2 @@
 # KIRO
+print("Hello Word")
